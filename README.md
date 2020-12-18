@@ -1,5 +1,5 @@
 # dy
-
+这是我们第三阶段的vue项目-仿卖座
 ## Project setup
 ```
 npm install
